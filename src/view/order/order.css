@@ -1,0 +1,27 @@
+
+.order{
+    overflow:auto;
+    width: 100%;
+    color:white;
+    margin: auto;
+    background-image: linear-gradient(to right bottom, rgb(40, 41, 61) 80%,
+    rgb(200, 137, 94)  200%);
+    height: 100vh;
+    
+}
+
+.btn-order{
+    background-color:rgb(235, 156, 38);
+    color:rgb(40, 41, 61) ;
+}
+
+.btn-order:hover{
+    background-color: rgb(173, 78, 0);
+    color:rgb(40, 41, 61) ;
+}
+
+.login-order a{
+    text-decoration: none;
+    color: rgb(235, 156, 38);
+    transition: .3s ease-in;
+}

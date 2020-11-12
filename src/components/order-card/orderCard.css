@@ -1,0 +1,43 @@
+.card{
+    background-color: rgb(241, 243, 225);
+    margin: 10px;
+    -webkit-box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.77);
+	-moz-box-shadow:    9px 7px 5px rgba(50, 50, 50, 0.77);
+    box-shadow:         9px 7px 5px rgba(50, 50, 50, 0.77);
+    transition: all 0.5s;
+    
+}
+
+.card:hover{
+    -webkit-transform: scale(1.5);
+    transform: scale(1.1);
+}
+
+.rodape-card{
+    color:rgb(235, 156, 38);
+    height: 30px;
+}
+
+.btn-details{
+    background-color:rgb(235, 156, 38) ;
+    color: white;
+    font-size: 15px;
+}
+
+.btn-details:hover{
+    background-color:rgb(173, 78, 0) ;
+    color: white;
+}
+
+.card-text{
+    
+        max-height: 70px;
+        min-height: 70px;
+        overflow: hidden;
+    
+}
+
+.model{
+    color:rgb(235, 156, 38);
+    font-size: 35px;
+}

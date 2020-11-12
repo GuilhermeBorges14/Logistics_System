@@ -1,0 +1,36 @@
+.login-content{
+    width: 100%;
+    padding: 15%;
+    margin: auto;
+    background-color:rgb(40, 41, 61);
+    height: 100vh;
+    
+}
+
+.btn-login{
+    background-color:rgb(235, 156, 38);
+    color:white ;
+}
+
+.btn-login:hover{
+    background-color: rgb(173, 78, 0);
+    color:white ;
+}
+
+.login-options a{
+    text-decoration: none;
+    color: rgb(235, 156, 38);
+    transition: .3s ease-in;
+}
+
+.login-options a:hover{
+    color: white;
+}
+
+.fa-truck-moving{
+    font-size: 5ch;
+}
+
+.system{
+    color:rgb(235, 156, 38);
+}

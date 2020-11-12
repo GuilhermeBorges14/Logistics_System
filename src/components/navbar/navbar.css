@@ -1,0 +1,14 @@
+.navbar{
+    background-color: rgb(235, 156, 38);
+}
+
+.nav-item a{
+    color:rgb(40, 41, 61);
+}
+
+.fa-truck-moving{
+    font-size: 5ch;
+}
+.back{
+    background-color: rgb(40, 41, 61);
+}
