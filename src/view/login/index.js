@@ -61,9 +61,10 @@ function Login() {
 
                 </div>
 
+                { /*
                 <div className="login-options mt-4">
                     <a href="#" >Recuperar Senha</a>
-                </div>
+                </div> */}
             </form>
         </div>
 
